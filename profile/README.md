@@ -21,7 +21,7 @@
 This is an open-source initiative to build useful apps under 1,000 lines of code.
 Explore, contribute, and showcase your coding skills!
 
-We are Under Construction and working on our Docs to get things going, so the docs link below is to our local dev server right now. Hoepfully we will be deployed for tests and showcase within the week!!!!
+We are Under Construction and working on our Docs to get things going, so the docs link below is to our local dev server right now. Hopefully we will be deployed for tests and showcase within the week!!!!
 
 ## Documentation
 
